@@ -9,5 +9,7 @@ public class stdinAndStdout {
         System.out.println(num1);
         System.out.println(num2);
         System.out.println(num3);
+
+        scan.close();
     }
 }
